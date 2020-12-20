@@ -1,0 +1,2 @@
+Workload,FilePath,Name,Mailbox,IsArchive,TargetRootFolder,ContentCodePage,SPFileContainer,SPManifestContainer,SPSiteUrl
+exchange,<FilePath>,name.pst,mail@example.com,TRUE,/,,,,

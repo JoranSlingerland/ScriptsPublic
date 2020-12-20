@@ -1,0 +1,1 @@
+robocopy "D:\UserData\Users" "D:\Dropbox\Dropbox (Synergia Capital)\Shared Data\ZZ_archief\user mappen" /MIR /xc /xn /r:10 /Z /XA:H /W:5 /log:C:\log\logrobodata.txt

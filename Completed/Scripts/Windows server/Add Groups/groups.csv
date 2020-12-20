@@ -1,0 +1,11 @@
+group,GroupCategory,groupscope,ou,displayname,members
+MAP_Algemeen,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Algemeen,"Ivan Roubos,Monique Beukers,Olga Overdijk,Jan Jaap Oostwouder,Matthijs Zaat,Robin Hofkamp,Leon Warlich,Antoine vd Bleek,Erik van Leeuwen,Patrick Minten,Patrick Voermans,projectondersteuning"
+MAP_Automatisering,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Automatisering,"Ivan Roubos,Monique Beukers,Olga Overdijk,Leon Warlich,
+Patrick Voermans,"
+MAP_Buitendienst,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Buitendienst,"Ivan Roubos,Monique Beukers,Donny Baegen,Olga Overdijk,Jan Jaap Oostwouder,Matthijs Zaat,Robin Hofkamp,Leon Warlich,Antoine vd Bleek,Erik van Leeuwen,Patrick Minten,Patrick Voermans,projectondersteuning,Buitendienst,Dick van der Horst"
+MAP_Financieel,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Financieel,"ivan roubos,monique beukers,leon warlich,patrick voermans"
+,,,,,
+MAP_Personeelszaken,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Personeelszaken,"Ivan roubos,olga overdijk,leon warlich, patrick voermans"
+MAP_Public,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_Public,"Ivan Roubos,Monique Beukers,Donny Baegen,Olga Overdijk,Jan Jaap Oostwouder,Matthijs Zaat,Robin Hofkamp,Leon Warlich,Antoine vd Bleek,Erik van Leeuwen,Patrick Minten,Patrick Voermans,projectondersteuning"
+MAP_oprognose,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",MAP_oprognose,"Ivan Roubos,Monique Beukers,Donny Baegen,Olga Overdijk,Jan Jaap Oostwouder,Matthijs Zaat,Robin Hofkamp,Leon Warlich,Antoine vd Bleek,Erik van Leeuwen,Patrick Minten,Patrick Voermans,projectondersteuning,Buitendienst,Dick van der Horst"
+VPN,Security,Global,"ou=groups,ou=dophou,dc=dophou,dc=local",VPN,"Ivan Roubos,Monique Beukers,Donny Baegen,Olga Overdijk,Leon Warlich,Antoine vd Bleek,Erik van Leeuwen,Patrick Minten,Patrick Voermans"

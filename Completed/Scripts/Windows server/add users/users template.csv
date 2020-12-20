@@ -1,0 +1,8 @@
+username;password;firstname;lastname;ou
+fred;Welkom2019!;Fred;van Eeren;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+jeffrey;Welkom2019!;Jeffrey;van der Weijden;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+marco;Welkom2019!;Marco;Spitsbaard;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+marijn;Welkom2019!;Marijn;van der Heiden;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+pim;Welkom2019!;Pim;de Lange;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+ronald;Welkom2019!;Ronald;Buis;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
+tom;Welkom2019!;Tom;Horning;"OU=Users,OU=ADSync,OU=debalk,DC=balk,DC=local"
